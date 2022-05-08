@@ -1,0 +1,5 @@
+# 项目排除路径
+/springMVC-demo01/target/
+/springMVC-demo02/target/
+/springMVC-demo03/target/
+/springMVC-demo04/target/
